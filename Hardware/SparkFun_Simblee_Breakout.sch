@@ -17409,7 +17409,7 @@ LilyPad 1206- DIO-09912&lt;br&gt;
 <sheet>
 <plain>
 <text x="166.116" y="8.128" size="3.81" layer="94">Mike Hord</text>
-<text x="238.506" y="6.604" size="3.81" layer="94">10</text>
+<text x="238.506" y="6.604" size="3.81" layer="94">11</text>
 <text x="42.418" y="14.224" size="2.54" layer="97" rot="R90">VIN &lt; 5.5V</text>
 <wire x1="147.32" y1="35.56" x2="0" y2="35.56" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="147.32" y1="35.56" x2="147.32" y2="185.42" width="0.1524" layer="97" style="shortdash"/>
